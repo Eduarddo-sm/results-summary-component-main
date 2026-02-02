@@ -42,7 +42,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### What I learned
 
-I learn about gradient-color using differente properties of cor
+I learn about gradient-color using differente properties of cor and a properties for decorative images on html.
 
 ```css
 background: linear-gradient(
@@ -50,7 +50,10 @@ background: linear-gradient(
   hsl(252, 100%, 67%),
   hsl(241, 81%, 54%)
 );
-}
+
+```HTML
+<p class="left-txt-list-two"><img src="./assets/images/icon-memory.svg" aria-hidden="true">Memory</p>
+
 ```
 
 **Note: Delete this note and the content within this section and replace with your own plans for continued development.**
