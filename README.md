@@ -6,7 +6,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -25,12 +24,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 
 </div>
-
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
@@ -64,4 +57,4 @@ background: linear-gradient(
 
 ## Author
 
-- Frontend Mentor - [@Eduarddo-sm]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/Eduarddo-sm))
+- Frontend Mentor - [@Eduarddo-sm](https://www.frontendmentor.io/profile/Eduarddo-sm])
